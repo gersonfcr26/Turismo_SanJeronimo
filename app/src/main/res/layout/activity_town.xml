@@ -20,11 +20,8 @@
             android:text="@string/title_activity_town"/>
 
         <TextView
-            style="@style/commonView"
-            android:text="@string/text_town"
-            android:textSize="20dp"
-            android:textColor="@color/black"
-            android:textStyle="normal"/>
+            style="@style/commonView.text1"
+            android:text="@string/text_town"/>
 
         <LinearLayout
             android:layout_width="match_parent"
