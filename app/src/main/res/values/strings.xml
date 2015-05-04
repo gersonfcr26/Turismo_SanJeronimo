@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">San Jerónimo Travel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hotel">HOTELS</string>
+    <string name="title_activity_bar">BARES</string>
+    <string name="title_activity_tour">TOURIST SITES</string>
+    <string name="title_activity_town">SAN JERÓNIMO...</string>
+    <string name="title_activity_about">About us...</string>
+
+    <string name="about">
+        <biu>SAN JERÓNIMO TRAVEL</biu> \n
+        Apps mobile devices \n
+        <b>University of Antioquia</b> \n
+        <u>Developed by:</u>
+        <i>Gerson Cárdenas</i>
+    </string>
+
+    <string name="title_quimbaya">Quimbaya Hotel</string>
+    <string name="title_eltesoro">El Tesoro Hotel</string>
+    <string name="title_dharma">Dharma Hotel</string>
+
+        <string name="text_quimbaya">The Quimbaya Hotel is a Country Resort located at San
+        Jerónimo Antioquia.  A place of great natural exuberance and tropical climate.
+        An excellent choice to satisfy your needs for rest, recreation, conventions and meetings.\n
+        <b>Direction: El Rincón countryside. Km 1, San Jerónimo, Antioquia \n
+        Phone number: (4) 2684915</b>
+    </string>
+
+    <string name="text_eltesoro">El Tesoro Hotel and Convention Center is ideal for a
+        family getaway,the natural surroundings, tranquility and all amenities you need to
+        feel the guest more pampered and enjoy an excellent stay.\n
+        <b>Direction: road to Santa Fé de Antioquia, San Jerónimo, Antioquia \n
+        Phone number: (4) 8582054</b>
+    </string>
+
+    <string name="text_dharma">Dharma Hotel Boutique Spa, a hotel for your senses.
+        We offer a wide range of services to meet the least of your desires.
+        Come and live an unforgettable experience in the best hotel at San Jeronimo.\n
+        <b>Direction: mile 1, old road towards Sopetrán, San Jerónimo, Antioquia \n
+        Phone number: (4) 8581779 / 3205127705</b>
+    </string>
+
+    <string name="title_route62">Route62 Bar</string>
+    <string name="title_tonunu">Tonunu Bar</string>
+
+    <string name="text_route62">Route 62, Bar and Grills. \n Excellent attention.\n
+        <b>Direction: Route 62, San Jerónimo, Antioquia \n
+        Phone number: 311 5205958</b>
+    </string>
+
+    <string name="text_tonunu">Disco Bar Tonunu, the best Crossover place of San Jerónimo,
+        where we have the best prices on local and imported liquors.
+        Excellent attention.\n
+        <b>Direction: Avenue 11 # 23 - 00, San Jerónimo, Antioquia \n
+        Phone number: (4) 8580331</b>
+    </string>
+
+    <string name="title_tamarindos">Los Tamarindos Park</string>
+    <string name="title_guaracu">Quebrada Guaracú</string>
+    <string name="title_lacandelaria">Nuestra Señora de La Candelaria Church</string>
+
+    <string name="text_tamarindos">Located in San Jerónimo, near the exit of the West tunnel,
+        this park offers an excellent alternative for fun, wetlands, children, family and
+        semi-Olympic swimming pool; sports courts, four spectacular waterslides, lazy river rides,
+        self-service, gym, reading room, internet and a large auditorium for 350 people are
+        always available for the enjoyment of visitors and businesses.\n
+        <b>Direction: San Jerónimo, Km 32 - 33 road to the sea \n
+        Phone number: 57(4) 858 04 75\n
+        Website: www.comfenalcoantioquia.com</b>
+    </string>
+
+     <string name="text_guaracu">Near the city center only 30 minutes walking is The Guaracú creek,
+        whose waters flow down from the top of the ridge and dramatically get close passing
+        through San Jerónimo forming what is known in the region as "Las Angusturas" and consist in
+        narrow channels that the creek has carved its way through the rocks.
+    </string>
+
+        <string name="text_lacandelaria">The church is a neoclassical style, was built between
+        1864-1895, is rectangular, its interior is divided into three naves, the lateral walls are
+        made of mud, its main facade is built in solid bricks glued with mortar and where stands
+        the bulrush with three openings for the bells.
+    </string>
+
+    <string name="text_town">Welcome to the town of San Jeronimo, West of Antioquia, Sun and
+            Fruits route, connected to the city of Medellin by one of the greatest engineering works
+            in Colombia such as the Tunnel of the West Fernando Gomez Martinez, 35 minutes from
+            Medellin.\n\n
+        <b>Country: </b> Colombia\n
+        <b>State: </b> Antioquia\n
+        <b>Region: </b> SouthWest\n
+        <b>Location: </b> 35 km west of Medellín\n
+        <b>Population: </b> 11.627 citizens \n
+        <b>Demonym: </b> Jeronimitas, San Jeronimeños\n
+        <b>Website: </b> 	http://www.sanjeronimo-antioquia.gov.co/
+    </string>
+
+</resources>

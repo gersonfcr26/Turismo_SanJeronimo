@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">San Jerónimo Travel</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_hotel">HOTELES</string>
+    <string name="title_activity_bar">BARES</string>
+    <string name="title_activity_tour">SITIOS TURÍSTICOS</string>
+    <string name="title_activity_town">SAN JERÓNIMO...</string>
+    <string name="title_activity_about">Acerca de...</string>
+
+    <string name="about">
+        <biu>SAN JERÓNIMO TRAVEL</biu> \n
+        Aplicaciones Dispositivos Móviles \n
+        <b>Universidad de Antioquia</b> \n
+        <u>Desarrollado por: </u>
+        <i>Gerson Cárdenas</i>
+    </string>
+
+    <string name="title_quimbaya">Hotel Quimbaya</string>
+    <string name="title_eltesoro">Hotel El Tesoro</string>
+    <string name="title_dharma">Hotel Dharma</string>
+
+    <string name="text_quimbaya">El Hotel Quimbaya es un Resort Campestre ubicado en
+        San Jerónimo, Antioquia. Un lugar de gran exuberancia natural y clima tropical.
+        Una excelente opción para satisfacer sus necesidades de descanso,  recreación,
+        convenciones y reuniones de trabajo.\n
+        <b>Dirección: Vereda El Rincón. Km 1, San Jerónimo, Antioquia \n
+        Teléfono: (4) 2684915</b>
+    </string>
+
+    <string name="text_eltesoro">El Tesoro Hotel y Centro de Convenciones es el sitio ideal
+        para el descanso familiar, rodeado de naturaleza, mucha tranquilidad y todas las
+        comodidades que necesitas para sentirse el huésped más consentido y disfrutar de una
+        excelente estadía.\n
+        <b>Dirección: carretera hacia Santa Fé de Antioquia, San Jerónimo, Antioquia \n
+        Teléfono: (4) 8582054</b>
+    </string>
+
+    <string name="text_dharma">Dharma Hotel Boutique Spa, un hotel para tus sentidos.
+        Ofrecemos una amplia gama de servicios para cumplir con el más mínimo de tus deseos.
+        Ven y vive una experiencia inolvidable en el mejor hotel de San Jerónimo.\n
+        <b>Dirección: kilómetro 1,5 vía antigua hacia Sopetrán, San Jerónimo, Antioquia \n
+        Teléfono: (4) 8581779 / 3205127705</b>
+    </string>
+
+    <string name="title_route62">Bar Route62</string>
+    <string name="title_tonunu">Bar Tonunu</string>
+
+    <string name="text_route62">Route 62, Bar and Grills. \n Excelente atención.\n
+        <b>Dirección: Ruta 62, San Jerónimo, Antioquia \n
+        Teléfono: 311 5205958</b>
+    </string>
+
+    <string name="text_tonunu">Disco Bar Tonunu, el mejor sitio Crossover de San Jerónimo,
+        donde contamos con los mejores precios en Licores Nacionales e Importados.
+        Excelente atencion...\n
+        <b>Dirección: Carrera 11 # 23 - 00, San Jerónimo, Antioquia \n
+        Teléfono: (4) 8580331</b>
+    </string>
+
+    <string name="title_tamarindos">Parque Los Tamarindos</string>
+    <string name="title_guaracu">Quebrada Guaracú</string>
+    <string name="title_lacandelaria">Iglesia de Nuestra Señora de La Candelaria</string>
+
+    <string name="text_tamarindos">Ubicado en San Jerónimo, cerca a la salida del Túnel de
+        Occidente, este parque ofrece una excelente alternativa para su diversión, zonas húmedas,
+        piscina infantil, familiar y semiolímpica; canchas deportivas, cuatro espectaculares
+        toboganes, río lento, atracciones mecánicas, autoservicio, gimnasio, sala de lectura,
+        café internet y un gran auditorio con capacidad para 350 personas están siempre disponibles
+        para el disfrute de sus visitantes y de las empresas.\n
+        <b>Dirección: San Jerónimo, Km 32 - 33 vía al mar \n
+        Teléfono: 57(4) 858 04 75\n
+        Página web: www.comfenalcoantioquia.com</b>
+    </string>
+
+    <string name="text_guaracu">Cerca del casco urbano a sólo 30 minutos caminando se encuentra la
+        quebrada La Guaracú cuyas aguas bajan desde lo alto de la cordillera y se encañonan
+        espectacularmente a su paso por San Jerónimo formando lo que en la región se conoce como
+        “Las Angosturas” y que consisten en estrechos cauces que ha labrado la quebrada a su paso
+        por entre las rocas.
+    </string>
+
+    <string name="text_lacandelaria">La iglesia es de estilo neoclásico, fue construida
+        entre 1864 a 1895, es de planta rectangular, su interior está dividido en tres naves,
+        sus muros laterales son en tapia, su fachada principal está construida en ladrillo macizo
+        pegados con argamasa y donde sobresale la espadaña con tres vanos para las campanas.
+    </string>
+
+    <string name="text_town">Bienvenidos al municipio de San Jerónimo, Occidente Antioqueño,
+        Ruta del Sol y de las Frutas, conectado con la ciudad de Medellín por una de las obras
+        de ingeniería mas grande de Colombia como lo es el Túnel de Occidente Fernando Gómez
+        Martínez, a 35 minutos de la ciudad de Medellín.\n\n
+        <b>País: </b> Colombia\n
+        <b>Departamento: </b> Antioquia\n
+        <b>Región: </b> Suroccidente\n
+        <b>Ubicación: </b> 35 km de Medellín\n
+        <b>Población: </b> 11.627 habitantes\n
+        <b>Gentilicio: </b> Jeronimitas, San Jeronimeños\n
+        <b>Sitio Web: </b> 	http://www.sanjeronimo-antioquia.gov.co/
+    </string>
+
+</resources>
