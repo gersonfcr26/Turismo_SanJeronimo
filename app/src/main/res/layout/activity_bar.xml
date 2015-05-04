@@ -12,77 +12,36 @@
         android:background="@drawable/background">
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="30dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/sj_main2" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="20dp"
-            android:layout_gravity="center"
-            android:text="@string/title_activity_bar"
-            android:textSize="45dp"
-            android:textColor="@color/black"
-            android:textStyle="bold"/>
+            style="@style/commonView.text3"
+            android:text="@string/title_activity_bar"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
-            android:text="@string/title_route62"
-            android:textSize="30dp"
-            android:textColor="@color/darkblue"
-            android:textStyle="italic"/>
+            style="@style/commonView.text2"
+            android:text="@string/title_route62"/>
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/bar_route62" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="25dp"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:text="@string/text_route62"
-            android:textSize="15dp"
-            android:textColor="@color/black"
-            android:textStyle="normal"/>
+            style="@style/commonView.text1"
+            android:text="@string/text_route62"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
-            android:text="@string/title_tonunu"
-            android:textSize="30dp"
-            android:textColor="@color/darkblue"
-            android:textStyle="italic"/>
+            style="@style/commonView.text2"
+            android:text="@string/title_tonunu"/>
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/bar_tonunu"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="25dp"
-            android:layout_gravity="center"
-            android:gravity="center"
-            android:text="@string/text_tonunu"
-            android:textSize="15dp"
-            android:textColor="@color/black"
-            android:textStyle="normal"/>
+            style="@style/commonView.text1"
+            android:text="@string/text_tonunu"/>
 
     </LinearLayout>
 

@@ -7,52 +7,26 @@
     android:background="@drawable/background">
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
+        style="@style/commonView.image"
         android:background="@drawable/sj_main"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:background="@drawable/button"
+        style="@style/commonView.button"
         android:text="@string/title_activity_hotel"
-        android:textColor="@color/black"
-        android:textSize="25dp"
-        android:textStyle="bold"
         android:id="@+id/hotelButton"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:background="@drawable/button"
+        style="@style/commonView.button"
         android:text="@string/title_activity_bar"
-        android:textColor="@color/black"
-        android:textSize="25dp"
-        android:textStyle="bold"
         android:id="@+id/barButton"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:background="@drawable/button"
+        style="@style/commonView.button"
         android:text="@string/title_activity_tour"
-        android:textColor="@color/black"
-        android:textSize="25dp"
-        android:textStyle="bold"
         android:id="@+id/tourButton"/>
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:background="@drawable/button"
+        style="@style/commonView.button"
         android:text="@string/title_activity_town"
-        android:textColor="@color/black"
-        android:textSize="25dp"
-        android:textStyle="bold"
         android:id="@+id/townButton"/>
 </LinearLayout>

@@ -12,27 +12,15 @@
         android:background="@drawable/background">
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="30dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/sj_main3"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="20dp"
-            android:gravity="center"
-            android:text="@string/title_activity_town"
-            android:textSize="45dp"
-            android:textColor="@color/black"
-            android:textStyle="bold"/>
+            style="@style/commonView.text3"
+            android:text="@string/title_activity_town"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="25dp"
-            android:gravity="center"
+            style="@style/commonView"
             android:text="@string/text_town"
             android:textSize="20dp"
             android:textColor="@color/black"
@@ -44,17 +32,11 @@
             android:gravity="center">
 
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="30dp"
-                android:layout_gravity="center"
+                style="@style/commonView.image"
                 android:background="@drawable/flag"/>
 
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="30dp"
-                android:layout_gravity="center"
+                style="@style/commonView.image"
                 android:background="@drawable/shield"/>
 
         </LinearLayout>

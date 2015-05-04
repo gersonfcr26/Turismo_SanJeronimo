@@ -12,102 +12,48 @@
         android:background="@drawable/background">
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="30dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/sj_main2"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="20dp"
-            android:layout_gravity="center"
-            android:text="@string/title_activity_tour"
-            android:textSize="45dp"
-            android:textColor="@color/black"
-            android:textStyle="bold"/>
+            style="@style/commonView.text3"
+            android:text="@string/title_activity_tour"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
-            android:text="@string/title_tamarindos"
-            android:textSize="30dp"
-            android:textColor="@color/darkblue"
-            android:textStyle="italic"/>
+            style="@style/commonView.text2"
+            android:text="@string/title_tamarindos"/>
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/tamarindos" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="25dp"
-            android:gravity="center"
-            android:text="@string/text_tamarindos"
-            android:textSize="15dp"
-            android:textColor="@color/black"
-            android:textStyle="normal"/>
+            style="@style/commonView.text1"
+            android:text="@string/text_tamarindos"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
-            android:text="@string/title_guaracu"
-            android:textSize="30dp"
-            android:textColor="@color/darkblue"
-            android:textStyle="italic"/>
+            style="@style/commonView.text2"
+            android:text="@string/title_guaracu"/>
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/guaracu" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="25dp"
-            android:gravity="center"
-            android:text="@string/text_guaracu"
-            android:textSize="15dp"
-            android:textColor="@color/black"
-            android:textStyle="normal"/>
+            style="@style/commonView.text1"
+            android:text="@string/text_guaracu"/>
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:gravity="center"
-            android:text="@string/title_lacandelaria"
-            android:textSize="30dp"
-            android:textColor="@color/darkblue"
-            android:textStyle="italic"/>
+            style="@style/commonView.text2"
+            android:text="@string/title_lacandelaria"/>
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:layout_gravity="center"
+            style="@style/commonView.image"
             android:background="@drawable/iglesia" />
 
         <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="25dp"
-            android:gravity="center"
-            android:text="@string/text_lacandelaria"
-            android:textSize="15dp"
-            android:textColor="@color/black"
-            android:textStyle="normal"/>
+            style="@style/commonView.text1"
+            android:text="@string/text_lacandelaria"/>
 
     </LinearLayout>
 
